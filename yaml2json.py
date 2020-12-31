@@ -1,3 +1,10 @@
+
+'''
+This script converts a file from YAML to JSON. The output can either be sent to stdout or to a specified file.
+
+
+'''
+
 import json
 import os
 import sys
